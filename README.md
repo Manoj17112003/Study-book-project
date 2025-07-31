@@ -3,5 +3,5 @@
 PROJECT DESCRIPTION :
 Study Book is a digital platform designed to help students easily access, organize, and manage educational books and resources.
 
-🛠️TECHNOLOGY STACKk:
+🛠️TECHNOLOGY STACK:
 Frontend : Using HTML, CSS, JavaScript 
